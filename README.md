@@ -53,3 +53,12 @@ We use the following Python library for ECG signal processing and feature extrac
   ```python
   import biosppy.signals.ecg as ecg 
   ```
+
+## Setup and run
+
+Run the files in the following order :
+- **process.ipynb** : Extracts features from the ECG signal.
+- **features.ipynb** : Scale and performs feature selection.
+- **model.ipynb** : Trains the model and outputs the result of applying the model on **X_test.csv** in a file **out.csv**.
+
+The datasets are supposed to be in a folder public, too big to be included in the repository.

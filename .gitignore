@@ -1,3 +1,5 @@
 .env
 features
 public
+download_dataset.py
+.DS_STORE
