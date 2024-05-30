@@ -1,7 +1,5 @@
 # ECG Signal Classification Task
 
-## Project: Time-Series Classification
-
 This repository contains the code and dataset for Project 2 of the Advanced Machine Learning course at ETH. The goal of this project is to classify ECG signals into different classes.
 
 ## Table of Contents
